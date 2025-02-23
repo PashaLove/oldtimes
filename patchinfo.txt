@@ -1,4 +1,5 @@
 Chef\PatternList.txt fc1ce51f43dab4da62a16dfd968271deb74220b7
+Chef\recall.ini 79348a9232133d8dc8d02ae8c1f4e9ff8119891d
 DataTable\Character.edf 78d44af83b42344656c25742a204e33eca723d0a
 DataTable\en-gb\NDCharacter.edf ab589a43c4fc78001a80a81a94a26dc058463707
 DataTable\en-gb\NDEventShip.edf 3682ae3621935e9c3855c21249a1eb3daf3db70b
@@ -25,4 +26,6 @@ DataTable\Quest.edf 381a0ac95930287df0598e0a87c151ea2d5098f4
 DataTable\Resource.edf c8596b90acbd437074a97ba576de5c6d3e55bc10
 DataTable\SkillForce.edf 51b666d03054788980030ad1d4a75809f5de16ff
 DataTable\Store.edf e448bbca004be74e4650d1c2ef958b97082b3a2b
+Effect\EffectEntity64.rpk 080a8683808d7a4f351861ce0d129193ba6d01d1
+Effect\MagicSptList.spt 7e73b8b4ce668334b2076b227ec199c116efbb9f
 SpriteImage\en-gb\item.spr 8438ceffded7bc47bbb63de495ae1e5c636e0010
