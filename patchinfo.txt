@@ -3,7 +3,7 @@ Chef\recall.ini 79348a9232133d8dc8d02ae8c1f4e9ff8119891d
 DataTable\Character.edf 78d44af83b42344656c25742a204e33eca723d0a
 DataTable\en-gb\NDCharacter.edf ab589a43c4fc78001a80a81a94a26dc058463707
 DataTable\en-gb\NDEventShip.edf 3682ae3621935e9c3855c21249a1eb3daf3db70b
-DataTable\en-gb\NDItem.edf 5becaed27da4b1c64f761ff9bff64acf56f04564
+DataTable\en-gb\NDItem.edf a89d2122b4d028d5d59ddcbbc6e09932bcdafd88
 DataTable\en-gb\NDItemCash.edf 3579848abeecdb3c82dff53dedabbda9ab1b4fa2
 DataTable\en-gb\NDLanguage.edf 066b3fd642237740f28dcd1e4d04115e5939b1d1
 DataTable\en-gb\NDMap.edf 0af70678781d2acb28de757af752e7f35468e90b
@@ -13,7 +13,7 @@ DataTable\en-gb\NDQuest.edf e015d267cb0c8ee79973e9f76926e4b8e812440b
 DataTable\en-gb\NDSkillForce.edf 720288591b9d02ca7c1c254e47bc29abccbe4cc6
 DataTable\en-gb\NDStore.edf 7428ff92c8bdf1d2e831755fc29fb828c3dd1f8f
 DataTable\EventShip.edf 571b90fb987ba5ce445aeed494beacb87d98676a
-DataTable\Item.edf ac6f67f310ce5b307cfdc7961881fe6b9feccad6
+DataTable\Item.edf caf53e698a8dbba2a2ee5f90a0792ce51a8b014c
 DataTable\ItemCash.edf 40c7a26740b5fcd99f73d264d70265d2af830f49
 DataTable\ItemCombine.edf 1590300ad4d1148071035a1782d1de6608abb522
 DataTable\ItemPremium.edf 34566a112e8e03242fa441ba1ef9c2c046529ffc
