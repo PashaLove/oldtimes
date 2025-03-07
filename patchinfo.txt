@@ -4,7 +4,7 @@ d3d9.dll 6b99623f4ae5f2591be12f0ef0220e0b148442a4
 DataTable\Character.edf 59320b3393f16c05d59ddc5e873b6b1261fd4548
 DataTable\en-gb\NDCharacter.edf cb423145fa8fe0e86301d342c630cb3e2c332354
 DataTable\en-gb\NDEventShip.edf 3682ae3621935e9c3855c21249a1eb3daf3db70b
-DataTable\en-gb\NDItem.edf 3363c3a6a4042ce6580ef29e4ab5403d10ec98de
+DataTable\en-gb\NDItem.edf 5eb608a2b1e5388fcc29558f8394b4115373498e
 DataTable\en-gb\NDItemCash.edf 3579848abeecdb3c82dff53dedabbda9ab1b4fa2
 DataTable\en-gb\NDLanguage.edf 066b3fd642237740f28dcd1e4d04115e5939b1d1
 DataTable\en-gb\NDMap.edf 0af70678781d2acb28de757af752e7f35468e90b
@@ -14,9 +14,9 @@ DataTable\en-gb\NDQuest.edf ae015e21203e258886b2bb906cfda481c4c3bce9
 DataTable\en-gb\NDSkillForce.edf 3337e435d58e376883f9ca3b38ce830320130fd4
 DataTable\en-gb\NDStore.edf 742c2ab23213bae07b735abd2496e199f80628d5
 DataTable\EventShip.edf 571b90fb987ba5ce445aeed494beacb87d98676a
-DataTable\Item.edf 0828438cf9b651f616574016e5b9fe40083ad562
+DataTable\Item.edf 4d76fd94f53fca569c66b76b6ec7e8e8730961f5
 DataTable\ItemCash.edf 40c7a26740b5fcd99f73d264d70265d2af830f49
-DataTable\ItemCombine.edf 405b2280bbaa4c106e3a98b578d57d74b6723391
+DataTable\ItemCombine.edf 9d399ed35e1e1a975a1a15ade514b80c04564b2d
 DataTable\ItemPremium.edf 34566a112e8e03242fa441ba1ef9c2c046529ffc
 DataTable\ItemSetEffect.edf e527ff4508f9c6747b5965714c3bd10fcc748f95
 DataTable\ItemTimer.edf 944b87212338209731ac2459a7224ca23fe151e3
