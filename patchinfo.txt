@@ -1,8 +1,8 @@
 Chef\PatternList.txt cc7c728220c83f82e2b0775a84a1d8a51c19e694
 Chef\recall.ini 83c4457d1cd4e4e84651b92735f272cf8193249e
 d3d9.dll 6b99623f4ae5f2591be12f0ef0220e0b148442a4
-DataTable\Character.edf dce03459ad0339dc371a4d65e1b993f19ef79958
-DataTable\en-gb\NDCharacter.edf 25e4cc98a5367c0e00bc416bcf13a0bc6ab912d0
+DataTable\Character.edf b03b1eecdacf24a8968edd1b23e87deba6e1e695
+DataTable\en-gb\NDCharacter.edf 94b52a51334b7247843aee3a98a12f7a0d584303
 DataTable\en-gb\NDEventShip.edf 3682ae3621935e9c3855c21249a1eb3daf3db70b
 DataTable\en-gb\NDItem.edf 4d2cd0ed80182b33f2cc7be7b644351067025ba3
 DataTable\en-gb\NDItemCash.edf bb1b5c663df9317b117349fc2e259cd708caef0f
