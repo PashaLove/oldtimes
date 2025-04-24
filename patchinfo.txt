@@ -1,4 +1,7 @@
+Chef\EffectFileList.txt 1bd494897685ef8efab64ede6d8d3b98d2d3d5e3
+Chef\ItemEffectList.txt 23c52d52bbbd03ab539d59b59736004c9823f790
 Chef\Monster.ini ba1c852e9b112c84af83b926329718147ef4b425
+Chef\Particle.ini 0fa8a2e1405dc27f86b8df811858256e933d851c
 Chef\PatternList.txt cc7c728220c83f82e2b0775a84a1d8a51c19e694
 Chef\recall.ini 83c4457d1cd4e4e84651b92735f272cf8193249e
 d3d9.dll 6b99623f4ae5f2591be12f0ef0220e0b148442a4
