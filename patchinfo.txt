@@ -8,7 +8,7 @@ Character\RFONLINE.DEV\Player\Tex\Mesh_1243.dds 41f40365f4e29ebcfbe013b37ecb3f61
 Character\RFONLINE.DEV\Player\Tex\Mesh_1244.dds 3db0dfb4f778bf1ef2b27f0612b4b85d5f50b690
 Chef\EffectFileList.txt 1bd494897685ef8efab64ede6d8d3b98d2d3d5e3
 Chef\ItemEffectList.txt 23c52d52bbbd03ab539d59b59736004c9823f790
-Chef\Monster.ini ba1c852e9b112c84af83b926329718147ef4b425
+Chef\Monster.ini 6da0c47c222dac55b40b518445a5b7657ac45890
 Chef\Particle.ini 0fa8a2e1405dc27f86b8df811858256e933d851c
 Chef\PatternList.txt cc7c728220c83f82e2b0775a84a1d8a51c19e694
 Chef\recall.ini 83c4457d1cd4e4e84651b92735f272cf8193249e
@@ -109,10 +109,10 @@ Chef\RFONLINE.DEV\SPT\PA_RKNIFE\smok.spt 459825df0fb97012326724ab8b78cd27b560ed0
 Chef\RFONLINE.DEV\SPT\PA_RKNIFE\smok2.spt f8b00e4ed36970665b21d25134261f71b78c6244
 Chef\RFONLINE.DEV\SPT\PA_RKNIFE\Star.spt 0015c7645e0330e9638930a8381a8ad138a446e0
 d3d9.dll 6b99623f4ae5f2591be12f0ef0220e0b148442a4
-DataTable\Character.edf 6e9489c2d78cd896f95db8fe2122e2930dd9037a
-DataTable\en-gb\NDCharacter.edf 3c4ad185af91866316e2f24b61c329fd126b9761
+DataTable\Character.edf 1d9121bfe15e8c880506158ebe1e96d3d2c955dd
+DataTable\en-gb\NDCharacter.edf 8a9105ff7599bc0d0a559ae3341c545c74da2113
 DataTable\en-gb\NDEventShip.edf 3682ae3621935e9c3855c21249a1eb3daf3db70b
-DataTable\en-gb\NDItem.edf a605d491b550dfff533a7af9efc0dc21cba91e33
+DataTable\en-gb\NDItem.edf 35f2eb4443d7c9157e1a8422688706c039a85546
 DataTable\en-gb\NDItemCash.edf 443fa4aa0e326e4872a7c166f365c4cda9a6e63e
 DataTable\en-gb\NDLanguage.edf 066b3fd642237740f28dcd1e4d04115e5939b1d1
 DataTable\en-gb\NDMap.edf c5afe7e778886956ba9dc5cfcd0efe529996636d
@@ -122,9 +122,9 @@ DataTable\en-gb\NDQuest.edf df39fc5c5b1d92d97dcff730511277ba41000dd5
 DataTable\en-gb\NDSkillForce.edf 19d02f8e72bfd9066ba259f2b21c8faf60e68c7b
 DataTable\en-gb\NDStore.edf 2e13a151dea975a7a9e415ce1664af083d1a540f
 DataTable\EventShip.edf 571b90fb987ba5ce445aeed494beacb87d98676a
-DataTable\Item.edf f55572d398c2e1aaae21fdfb66c4ca9a11967add
+DataTable\Item.edf 154bd4dfdd6c41cbdfc8b2c66cf357398d543e91
 DataTable\ItemCash.edf 5182dd89d6cecc864bfecd5e8eacd84bbf93ffd6
-DataTable\ItemCombine.edf d07ec975bad756c42180ca6620e0ca3e223e6fac
+DataTable\ItemCombine.edf c155ee049a707ae68100001ff12a74d057faf8a3
 DataTable\ItemPremium.edf 34566a112e8e03242fa441ba1ef9c2c046529ffc
 DataTable\ItemSetEffect.edf 473a63f7d53cf5977f4899f2479e903aa5a245ed
 DataTable\ItemTimer.edf 01ada2278a75b64b8d108e68e5af32ca3df986a1
@@ -160,4 +160,4 @@ Item\RFONLINE.DEV\Shield\Tex\Mesh_1242.dds 62528f0a617850f6c208c62fff3b5aa2c2163
 Item\RFONLINE.DEV\Weapon\Mesh\SPEARKNIFE.MSH cc745e2ecbd0bb86103c7b7a5b69488495e1ea4b
 Item\RFONLINE.DEV\Weapon\Tex\SPEARKNIFE.dds fbbdf397c563bc4181ad59c382805bfc452fa56a
 SpriteImage\en-gb\common.spr b0602ad6357b4d6e25786a0c09e74037322b6c1f
-SpriteImage\en-gb\item.spr 3257732ea83ac4f34dd28a63e903128c01c4253c
+SpriteImage\en-gb\item.spr 8cc7c17729e6a1ed1c234b472dd80426e0aca5fe
