@@ -112,7 +112,7 @@ d3d9.dll 6b99623f4ae5f2591be12f0ef0220e0b148442a4
 DataTable\Character.edf 1d9121bfe15e8c880506158ebe1e96d3d2c955dd
 DataTable\en-gb\NDCharacter.edf 8a9105ff7599bc0d0a559ae3341c545c74da2113
 DataTable\en-gb\NDEventShip.edf 3682ae3621935e9c3855c21249a1eb3daf3db70b
-DataTable\en-gb\NDItem.edf ed0e6bbfc525cd6d67fab21c4786b5d716f0ac41
+DataTable\en-gb\NDItem.edf 07bfcbdb226ecf4e844d6bcca111981c1e7c3466
 DataTable\en-gb\NDItemCash.edf 443fa4aa0e326e4872a7c166f365c4cda9a6e63e
 DataTable\en-gb\NDLanguage.edf 066b3fd642237740f28dcd1e4d04115e5939b1d1
 DataTable\en-gb\NDMap.edf c5afe7e778886956ba9dc5cfcd0efe529996636d
@@ -122,7 +122,7 @@ DataTable\en-gb\NDQuest.edf df39fc5c5b1d92d97dcff730511277ba41000dd5
 DataTable\en-gb\NDSkillForce.edf 19d02f8e72bfd9066ba259f2b21c8faf60e68c7b
 DataTable\en-gb\NDStore.edf 2e13a151dea975a7a9e415ce1664af083d1a540f
 DataTable\EventShip.edf 571b90fb987ba5ce445aeed494beacb87d98676a
-DataTable\Item.edf effb808d7a6347dd2b4837cfa6f326f3a3df9dd1
+DataTable\Item.edf 6b990fa9b95f081fe9a1601fe1e8c590ac2311a3
 DataTable\ItemCash.edf 5182dd89d6cecc864bfecd5e8eacd84bbf93ffd6
 DataTable\ItemCombine.edf 601539668748a4eab5615307ceb4e7d2bd3a6df5
 DataTable\ItemPremium.edf 34566a112e8e03242fa441ba1ef9c2c046529ffc
@@ -160,4 +160,4 @@ Item\RFONLINE.DEV\Shield\Tex\Mesh_1242.dds 62528f0a617850f6c208c62fff3b5aa2c2163
 Item\RFONLINE.DEV\Weapon\Mesh\SPEARKNIFE.MSH cc745e2ecbd0bb86103c7b7a5b69488495e1ea4b
 Item\RFONLINE.DEV\Weapon\Tex\SPEARKNIFE.dds fbbdf397c563bc4181ad59c382805bfc452fa56a
 SpriteImage\en-gb\common.spr b0602ad6357b4d6e25786a0c09e74037322b6c1f
-SpriteImage\en-gb\item.spr b2973233ddcea3bcff7efc6ecf418bb6c0495314
+SpriteImage\en-gb\item.spr 37ca252ce1ebbd4cf46fa2df0b8084b6a0f083b1
